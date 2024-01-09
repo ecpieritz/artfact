@@ -2,9 +2,9 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "x" width = "700" height = "auto">
-  <img src = "x" width = "350" height = "auto">
-  <img src = "x" width = "350" height = "auto">
+  <img src = "https://raw.githubusercontent.com/ecpieritz/artfact/58d5188251ca99146b68f2dfd7e4da2ea4aae292/images/af-print-01.png" width = "700" height = "auto">
+  <img src = "https://raw.githubusercontent.com/ecpieritz/artfact/58d5188251ca99146b68f2dfd7e4da2ea4aae292/images/af-print-02.png" width = "350" height = "auto">
+  <img src = "https://raw.githubusercontent.com/ecpieritz/artfact/58d5188251ca99146b68f2dfd7e4da2ea4aae292/images/af-print-03.png" width = "350" height = "auto">
 </p>
 
 ## 📖 About
